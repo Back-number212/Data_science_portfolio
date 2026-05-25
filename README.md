@@ -21,3 +21,9 @@
 
 - Evaluated model performance and visualization, achieving high precision with low RMSE in capturing market trends and providing data-driven insights for investment strategies.
 
+# [Project 3: Customer Shopping Behavior Analysis System] (https://github.com/Back-number212/customer_behavior_analysis/tree/main)
+
+- Performed Exploratory Data Analysis (EDA) on customer behavior to identify performance patterns and trends. 
+- Created data visualization using Power BI to communicate statistics and enabling data-driven marketing strategies.
+- Conducted customer segmentation to provide actionable insights for personalized customer care and engagement scenarios.
+  <img width="1295" height="705" alt="image" src="https://github.com/user-attachments/assets/88352bc0-d91e-45f0-b65b-287dd314e394" />
