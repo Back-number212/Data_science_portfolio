@@ -27,3 +27,11 @@
 - Created data visualization using Power BI to communicate statistics and enabling data-driven marketing strategies.
 - Conducted customer segmentation to provide actionable insights for personalized customer care and engagement scenarios.
   <img width="1295" height="705" alt="image" src="https://github.com/user-attachments/assets/88352bc0-d91e-45f0-b65b-287dd314e394" />
+
+# [Project 4: Defi_Crowdfunding_app](https://github.com/Back-number212/Defi_Crowdfunding_app/tree/main)
+- Modeled system requirements and business workflows using UML standards (Class, Activity, and Sequence Diagrams) to streamline automated campaign approvals and fund disbursements.  
+- Designed a hybrid relational database integrated with a distributed ledger to enable real-time, automated fund processing with zero manual intervention. 
+- Analyzed traditional model’s pain points such as high costs,delayed reconciliation to propose a decentralized business solution, reducing operational costs and platform fees from 5-8% to below 3%.
+
+  <img width="1019" height="909" alt="image" src="https://github.com/user-attachments/assets/18c0c248-dfc8-49c1-b5f5-a047871ca193" />
+
